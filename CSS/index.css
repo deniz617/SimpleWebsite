@@ -1,0 +1,20 @@
+.chat_header
+{
+  font-size:22px;
+  text-align:center;
+  letter-spacing: 1.5px;
+  color:#66ffcc;
+}
+
+.chat_line
+{
+  font-size:18px;
+  text-align:center;
+  letter-spacing: 1.5px;
+  color:#66ff66;
+}
+
+body
+{
+  background-color:#282828;
+}
